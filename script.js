@@ -36,5 +36,5 @@ console.log(2 + 2  === 4 ); // comparison with date type we need to use the two 
 console.log(4 + '4'); // 4 + '4' => 44 An concatenation is an operator that adds a second value by first as a symbol.
 let x = 5;
 x ++; // => x = x + 1; or x += 1; increment
-x --; // => x = x - 1; or x -= 1; increment
+x --; // => x = x - 1; or x -= 1; dicrement
 console.log(x);
